@@ -1,11 +1,11 @@
 {
     "name": "belmvc/core",
-    "description": "mvc framework from antonbeletskyeu@gmail.com",
+    "description": "mvc core framework from antonbeletskyeu@gmail.com",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Anton Beletsky",
+            "name": "AntonBeletsky",
             "email": "antonbeletsky@gmail.com"
         }
     ],
